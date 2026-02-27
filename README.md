@@ -21,6 +21,9 @@
 ### 5. [**Spec-Kit**](https://github.com/github/spec-kit)
 规范驱动开发改变了传统软件开发的方式。几十年来，代码一直是核心——规范只是我们在开始"真正的编码工作"后就抛弃的搭建工具。规范驱动开发改变了这一切：规范变成可执行的，直接生成工作实现，而不仅仅是指导它们。
 
+### 6. [**get-shit-done**](https://github.com/gsd-build/get-shit-done)
+一款适用于 Claude Code、OpenCode、Gemini CLI 以及 Codex 的轻量级且功能强大的系统,具备元提示（meta-prompting）、上下文工程（context engineering）以及规格驱动开发（spec-driven development）的功能。
+
 ---
 
 > 💡 欢迎贡献和提交更多的 AI 辅助开发框架！
